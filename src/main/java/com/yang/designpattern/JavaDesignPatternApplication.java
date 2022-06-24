@@ -1,4 +1,4 @@
-package com.example.javadesignpattern;
+package com.yang.designpattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
